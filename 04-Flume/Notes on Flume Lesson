@@ -1,0 +1,5 @@
+Flume and Kafka are tools for ingesting event data into hadoop AS data is being generated
+log files , sensor data, streaming data from social media such as twitter, etc
+
+flume provides point to point event data delivery and is equipped with many out of the box connectors
+
